@@ -5,7 +5,7 @@
   * Maven 3.3.X
   * MongoDB
 
-### install common-lib
+### install common-lib  
   * go inside to the common-lib project folder
   * then run ``` mvn clean install ```
   
@@ -33,7 +33,7 @@
   * then run ``` mvn clean package ```
   * then run ``` java -jar target\product-service-0.0.1-SNAPSHOT.jar ```
 
-##edited
+##editedee
 
  
 
